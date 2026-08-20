@@ -1,4 +1,4 @@
- package com.example.webwallpaperengine.ui.theme
+package com.example.webwallpaperengine.ui.theme
 
 import android.app.Activity
 import androidx.compose.material3.MaterialTheme
