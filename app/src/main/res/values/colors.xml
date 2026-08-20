@@ -1,1 +1,5 @@
- 
+ <resources>
+    <color name="ink">#292817</color>
+    <color name="panel">#1C1B0F</color>
+    <color name="accent">#EC8A16</color>
+</resources>
