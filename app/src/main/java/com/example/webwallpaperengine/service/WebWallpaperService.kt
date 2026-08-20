@@ -1,4 +1,4 @@
- package com.example.webwallpaperengine.service
+package com.example.webwallpaperengine.service
 
 import android.content.Intent
 import android.service.wallpaper.WallpaperService
