@@ -1,4 +1,4 @@
- package com.example.webwallpaperengine
+package com.example.webwallpaperengine
 
 import android.app.Activity
 import android.os.Bundle
