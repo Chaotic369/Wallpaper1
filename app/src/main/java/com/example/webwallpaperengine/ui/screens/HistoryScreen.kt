@@ -1,4 +1,4 @@
- package com.example.webwallpaperengine.ui.screens
+package com.example.webwallpaperengine.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
